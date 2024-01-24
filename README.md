@@ -1,2 +1,2 @@
 # alertas
-codeatr tutorials
+codeatr tutorials. For more information please visit https://codeatr.dev/
